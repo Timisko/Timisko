@@ -1,9 +1,9 @@
 Hello 😄
 
-🔭 I’m currently working on ..: Vue website with Node backend
-🌱 I’m currently learning ..: Vue, Node
-
-📫School: High School of Electroengineering in Prešov
+🔭 I’m currently working on ..: Vue website with Node backend </br>
+🌱 I’m currently learning ..: Vue, Node </br>
+</br>
+📫School: High School of Electroengineering in Prešov</br>
 ![Timisko's GitHub stats](https://github-readme-stats.vercel.app/api?username=Timisko&theme=graywhite&show_icons=true)
 <!--
 **Timisko/Timisko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

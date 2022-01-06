@@ -2,7 +2,7 @@ Hello �😜
 
 🔭 I’m currently working on Vue website with Node backend </br>
 🌱 I’m currently learning Vue, Node </br>
-💬 Ask me about Express, Vue and anything related with coding 😄
+💬 Ask me about Express, Vue and anything related with coding 😄 <br>
 📫 How to reach me: timotejbreznicky@gmail.com 🆒
 </br>
 📫School: High School of Electroengineering in Prešov ✔</br> 

@@ -1,4 +1,4 @@
-Hello �😜
+Hello 😜
 
 🔭 I’m currently working on Vue website with Node backend </br>
 🌱 I’m currently learning Vue, Node </br>

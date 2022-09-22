@@ -5,7 +5,8 @@ Hello 😜
 💬 Ask me about Express, Vue and anything related with coding 😄 <br>
 📫 How to reach me: timotejbreznicky@gmail.com 🆒
 </br>
-📫School: High School of Electroengineering in Prešov ✔</br> 
+📫School: High School of Electroengineering in Prešov ✔</br>
+📫School: Technical University of Košice ⏲</br>
 <br>
 ![Timisko's GitHub stats](https://github-readme-stats.vercel.app/api?username=Timisko&theme=graywhite&show_icons=true)
 <br>
